@@ -78,6 +78,16 @@ local yetmisyedi = "SEVENTY SEVEN"
 local yetmissekiz = "SEVENTY EIGT"
 local yetmisdokuz = "SEVENTY NINE"
 local seksen = "EIGTY"
+local seksenbir = "EIGTY ONE"
+local sekseniki = "EIGTY TWO"
+local seksenuc = "EIGTY THREE"
+local seksendort = "EIGTY FOUR"
+local seksenbes = "EIGTY FIFE"
+local seksenalti = "EIGTY SIX"
+local seksenyedi = "EIGTY SEVEN"
+local seksensekiz = "EIGTY EIGT"
+local seksendokuz = "EIGTY NINE"
+local doksan = "NINETY"
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(bir, "All")
 wait(2.22)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(iki, "All")
@@ -237,3 +247,23 @@ wait(2.22)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(yetmisdokuz, "All")
 wait(2.22)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksen, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksenbir, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(sekseniki, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksenuc, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksendort, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksenbes, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksenalti, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksenyedi, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksensekiz, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(seksendokuz, "All")
+wait(2.22)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(doksan, "All")
